@@ -3,6 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class JavaFA {
+    //Calcula el factorial de un numero
+
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int numero;

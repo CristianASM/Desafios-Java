@@ -2,6 +2,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class JavaFI {
+    //Secuencia de fibonacci
+
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 

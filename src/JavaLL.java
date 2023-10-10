@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
 public class JavaLL {
+    //Reserva de asientos
+
     public static void main(String[] args) {
-        char asientos[][] = new char[10][10];
+        char[][] asientos = new char[10][10];
         Scanner teclado = new Scanner(System.in);
         int fila;
         int columna;
@@ -15,7 +17,7 @@ public class JavaLL {
             }
         }
 
-        while(centinela == false){
+        while(!centinela){
             mostrarMapa(asientos);
             System.out.print("Elige una fila del 0 al 9: ");
             fila = teclado.nextInt();
@@ -35,7 +37,7 @@ public class JavaLL {
             }
         }
     }
-    static void mostrarMapa(char asientos[][]){
+    static void mostrarMapa(char[][] asientos){
         for (int f=0; f<10; f++){
             System.out.print(f);
             for (int c=0; c< 10; c++){

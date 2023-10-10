@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class JavaDU {
+    //Revisa si hay duplicados en una lista
+
     public static List<Integer> findDuplicates(int[] ar) {
         List<Integer> duplicates = new ArrayList<>();
         for (int i = 0; i < ar.length; i++) {
