@@ -2,7 +2,7 @@ import java.math.BigInteger;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaFA {
+public class CalculadoraFactorial {
     //Calcula el factorial de un numero
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaPO {
+public class InvertirOracion {
     /**Cuenta la:   -Cantidad de palabras de una oracion
                     -La palabra mas larga
                     -Invierte la oracion

@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaNP {
+public class VerificadorNumerosPrimos {
     // Verificador de numeros primos
 
     public static void main(String[] args) {

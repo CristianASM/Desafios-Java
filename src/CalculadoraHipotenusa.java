@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaHN {
+public class CalculadoraHipotenusa {
     //Calcula la hipotenusa
 
     public static void main(String[] args) {

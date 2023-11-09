@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PL {
+public class DetectorPalindromo {
     // Detector de palindromo
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

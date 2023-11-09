@@ -1,7 +1,6 @@
-import java.util.Random;
 import java.util.Scanner;
 
-public class JavaNA {
+public class JuegoAdivinarNumero {
     // Juego para adivinar numero random.
     /** --> Agregar: -Niveles de dificultad en donde el numero random sea mayor
      *               -Dar pistas al segundo intento por ejemplo o que tenga pistas limitadas por dificultad*/

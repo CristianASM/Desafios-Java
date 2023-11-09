@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaGE {
+public class CalculadoraArea {
     //Calculador de Área :Circulo:Triángulo:Rectángulo
     //Añadir unidades de medida (^._.^)⟆
 

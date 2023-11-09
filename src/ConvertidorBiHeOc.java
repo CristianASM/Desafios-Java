@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaCN {
+public class ConvertidorBiHeOc {
     // Convertidor numerico a binario, hexadecimal u octal.
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

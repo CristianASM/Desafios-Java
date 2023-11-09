@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaCF {
+public class CalculadoraFracciones {
     public static void main(String[] args) {
         // Calculcadora de suma de fracciones.
 

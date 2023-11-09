@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaLL {
+public class ReservarLugar {
     //Reserva de asientos
 
     public static void main(String[] args) {

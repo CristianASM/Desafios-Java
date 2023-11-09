@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaFI {
+public class SecuenciaFibonacci {
     //Secuencia de fibonacci
 
     public static void main(String[] args) {

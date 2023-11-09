@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class JavaDU {
+public class DetectorDuplicados {
     //Revisa si hay duplicados en una lista
 
     public static List<Integer> findDuplicates(int[] ar) {
