@@ -1,0 +1,1 @@
+Archivo input que pasa por un FileReader. Cuenta las palabras que hay en el archivo y escribe otro usando FileWriter con el numero de palabras.
